@@ -1,0 +1,2 @@
+Módulos Requeridos:
+- CustomTkinter (version 5.2.2)
